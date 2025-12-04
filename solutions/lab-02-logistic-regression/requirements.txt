@@ -1,0 +1,7 @@
+googledrivedownloader==0.4
+numpy
+requests
+pyparsing
+six
+requests
+matplotlib
